@@ -53,6 +53,7 @@ namespace APIMetric
                 get { return _succcess; }
                 set { _succcess = value; }
             }
+        //constructor 
             public Apicall()
             {
  
